@@ -10,7 +10,8 @@ public class Main {
 		
 //		new Q1(sc);
 //		new Q2(sc);
-		new Q3(sc);
+//		new Q3(sc);
+		new Q4(sc);
 	}
 
 }
