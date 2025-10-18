@@ -9,7 +9,8 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 //		new Q1(sc);
-		new Q2(sc);
+//		new Q2(sc);
+		new Q3(sc);
 	}
 
 }
