@@ -12,9 +12,10 @@ public class Main {
 //		new Q2(sc);
 //		new Q3(sc);
 //		new Q4(sc);
-		new Q5(sc);
+//		new Q5(sc);
 //		new Q6(sc);
 //		new Q7(sc);
+		new Q8(sc);
 		
 //		new Q99();
 	}
