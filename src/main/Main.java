@@ -16,7 +16,8 @@ public class Main {
 //		new Q6(sc);
 //		new Q7(sc);
 //		new Q8(sc);
-		new Q9(sc);
+//		new Q9(sc);
+		new Q10(sc);
 		
 //		new Q99();
 	}
